@@ -1,0 +1,18 @@
+{
+    "sirkel": [
+        {"radius": 15, "x" : 40, "y" : 80 , "color": "red"},
+        {"radius": 30, "x" : 100, "y" : 80 , "color": "blue"},
+        {"radius": 45, "x" : 185, "y" : 80 , "color": "purple"},
+        {"radius": 60, "x" : 300, "y" : 80 , "color": "green"},
+        {"radius": 75, "x" : 450, "y" : 80 , "color": "yellow"}
+    ],  
+
+    "firkant" : [
+        {"width" : 50, "height": 50, "x": 20, "y": 50, "color": "red"},
+        {"width" : 70, "height": 70, "x": 80, "y": 50, "color": "blue"},
+        {"width" : 90, "height": 90, "x": 160, "y": 50, "color": "purple"},
+        {"width" : 110, "height": 110, "x": 260, "y": 50, "color": "green"},
+        {"width" : 130, "height": 130, "x": 380, "y": 50, "color": "yellow"}
+    ]
+}
+
